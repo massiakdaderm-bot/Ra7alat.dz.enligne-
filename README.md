@@ -21,7 +21,7 @@ The platform allows users to explore available trips, book their preferred exper
 
 | Home & Discovery | Search & Filter | Trip Details | User Profile | Create Trip |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home.png.jpg" width="200"> | <img src="screenshots/search.png" width="200"> | <img src="screenshots/trip-details.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/create-trip.png" width="200"> |
+| <img src="screenshot/home.png.jpg" width="200"> | <img src="screenshots/search.png" width="200"> | <img src="screenshots/trip-details.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/create-trip.png" width="200"> |
 
 ---
 
