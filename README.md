@@ -21,7 +21,7 @@ The platform allows users to explore available trips, book their preferred exper
 
 | Home & Discovery | Search & Filter | Trip Details | User Profile | Create Trip |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/massiakdaderm-bot/Ra7alat.dz.enligne-/blob/main/Screenshot/homme.pag/homme%20page.jpg"> | <img src="https://github.com/massiakdaderm-bot/Ra7alat.dz.enligne-/blob/main/Screenshot/homme.pag/Screenshot_20261122_163408_RA7ALAT%20DZ.jpg" width="200"> | <img src="screenshots/trip-details.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/create-trip.png" width="200"> |
+| <img src="https://github.com/massiakdaderm-bot/Ra7alat.dz.enligne-/blob/main/Screenshot/homme.pag/homme%20page.jpg"> | <img src="https://github.com/massiakdaderm-bot/Ra7alat.dz.enligne-/blob/main/Screenshot/homme.pag/Screenshot_20261122_163408_RA7ALAT%20DZ.jpg" > | <img src="screenshots/trip-details.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/create-trip.png" width="200"> |
 
 ---
 
