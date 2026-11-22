@@ -58,7 +58,7 @@ The platform allows users to explore available trips, book their preferred exper
 ## 📥 Download the Application
 
 The Android application is available for download as an APK package:
-👉 **[Download Ra7alat – Latest Version](https://github.com/MassinissaAkdader/ra7alat/releases/latest)**
+👉 **[Download Ra7alat – Latest Version](https://github.com/massiakdaderm-bot/Ra7alat.dz.enligne-/releases/download/v1.0.0/RA7ALAT_DZ.apk)**
 
 ### Installation Instructions:
 1. Download the APK file.
