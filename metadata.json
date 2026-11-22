@@ -1,0 +1,8 @@
+{
+  "name": "RA7ALAT DZ",
+  "description": "تطبيق رحلات ديزاد (RA7ALAT DZ) لاستكشاف وحجز وتنظيم الرحلات السياحية في الجزائر عبر 58 ولاية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

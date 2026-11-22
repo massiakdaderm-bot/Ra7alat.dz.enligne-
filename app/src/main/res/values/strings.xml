@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RA7ALAT DZ</string>
+    <string name="google_app_id" translatable="false">1:822393224659:android:a1b2c3d4e5f6</string>
+    <string name="gcm_defaultSenderId" translatable="false">822393224659</string>
+    <string name="default_web_client_id" translatable="false">822393224659-apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ra7alat-dz.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyMockKeyForInitializationOnly123456</string>
+    <string name="project_id" translatable="false">ra7alat-dz</string>
+</resources>
