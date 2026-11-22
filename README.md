@@ -84,8 +84,7 @@ The Android application is available for download as an APK package:
 
 **Massinissa Akdader**  
 *Computer Science Student*  
-- GitHub: [@MassinissaAkdader](https://github.com/MassinissaAkdader)[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span)
-
+- GitHub: https://github.com/massiakdaderm-bot
 ---
 
 <p align="center">
